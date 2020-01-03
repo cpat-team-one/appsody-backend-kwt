@@ -1,0 +1,2 @@
+project-name: appsody-backend-kwt
+stack: kabanero/nodejs-express:0.2
